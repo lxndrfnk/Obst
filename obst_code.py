@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from streamlit_plotly_events import plotly_events
 
 farben = {
     "Apfel": "#d62728",     # Rot
