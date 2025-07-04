@@ -1,3 +1,4 @@
 plotly
 pandas
 plotly.express
+plotly_events
